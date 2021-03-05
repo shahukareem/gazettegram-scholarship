@@ -2,7 +2,7 @@
 # scraper for MV Gazette
 
 import requests
-import config_private as config
+import config
 from bs4 import BeautifulSoup as bs
 
 

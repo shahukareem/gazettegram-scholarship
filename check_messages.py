@@ -1,4 +1,4 @@
-import config_private as config
+import config
 import requests
 
 def get_updates():

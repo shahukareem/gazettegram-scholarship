@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import config_private as config
+import config
 import requests
 import sqlite3
 from datetime import date
